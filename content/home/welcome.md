@@ -7,8 +7,8 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  ML for Data Management Group
-hero_media: welcome.jpg
+ Welcome to ML for Data Management Group @ NTU
+hero_media: ntu.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,6 @@ design:
 
 <br>
 
-The **ML for Data Management Group** at NTU focuses on the application of machine learning techniques to various components of database management systems, with the vision of building an intelligent, self-adpative data system. Our current research inclues learned index, learned query optimization, as well as data generation.
+<a class="github-button" href="https://github.com/mlxdb" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Visit ML x DB Github Page">Visit ML x DB Github Page</a>
+
+<!-- The **ML for Data Management Group** at NTU focuses on the application of machine learning techniques to various components of database management systems, with the vision of building an intelligent, self-adpative data system. Our current research inclues learned index, learned query optimization, as well as data generation. -->
