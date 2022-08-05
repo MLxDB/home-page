@@ -6,8 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
- Welcome to ML for Data Management Group @ NTU
+title: #Welcome to ML for Data Management Group @ NTU
 hero_media: ntu.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -19,10 +18,11 @@ design:
 cta:
   url: 'https://github.com/MLxDB'
   label: Github Page
-  icon_pack: fas
+  icon_pack: fab
   icon: github
 ---
 
 <br>
 
+Welcome to ML for Data Management Group @ NTU。
 <!-- The **ML for Data Management Group** at NTU focuses on the application of machine learning techniques to various components of database management systems, with the vision of building an intelligent, self-adpative data system. Our current research inclues learned index, learned query optimization, as well as data generation. -->
