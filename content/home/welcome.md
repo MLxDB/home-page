@@ -15,10 +15,14 @@ design:
   # Add custom styles
   css_style:
   css_class:
+
+cta:
+  url: 'https://github.com/MLxDB'
+  label: Github Page
+  icon_pack: fas
+  icon: github
 ---
 
 <br>
-
-<a class="github-button" href="https://github.com/mlxdb" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Visit ML x DB Github Page">Visit ML x DB Github Page</a>
 
 <!-- The **ML for Data Management Group** at NTU focuses on the application of machine learning techniques to various components of database management systems, with the vision of building an intelligent, self-adpative data system. Our current research inclues learned index, learned query optimization, as well as data generation. -->
