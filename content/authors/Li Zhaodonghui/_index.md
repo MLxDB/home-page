@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Li Zhaodonghui
+title: LI Zhaodonghui
 
 # Username (this should match the folder name)
 authors:
-  - LI Zhaodonghui
+  - Li Zhaodonghui
 
 # Is this the primary user of the site?
 superuser: false

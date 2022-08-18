@@ -6,7 +6,7 @@ title: CONG Gao
 superuser: true
 
 # Role/position
-role: Professor of Computer Science 
+role: Professor 
 
 # Organizations/Affiliations
 organizations:
@@ -14,24 +14,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include data mangement and data mining.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Spatial data management and geo-textual data management
+  - Spatial data mining and smart city
+  - Machine learning for data management
+  - Recommendation and social media mining
+  - Data mining and large scale data analytics
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: National University of Singapore
+      year: 2004
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -68,6 +65,6 @@ user_groups:
   - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Gao Cong is currently a Professor with School of Computer Science and Engineering in Nanyang Technological University (NTU), and a co-director for Singtel Cognitive and Artificial Intelligence Lab for Enterprises@NTU (SCALE@NTU). Before joining NTU, he was an Assistant Professor in Aalborg University, Denmark. Before that, he worked as a researcher at Microsoft Research Asia. From 2004 to 2006, he worked as a postdoc in University of Edinburgh. He received his Ph.D. in Computer Science from National University of Singapore in 2004. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+His general research interests are in Data Science. In particular, his research focuses on geospatial data management, spatio-temporal data mining, recommendation, and mining social media data. He has published in prestigious journals (e.g., VLDB Journal, TODS, TKDE) and conferences (e.g., VLDB, SIGMOD, ICDE, KDD, WSDM, SIGIR, WWW). His citation in Google Scholar was over 14000 with H-index 61. He served as a PC co-chair for ICDE’2022, an associate chair of KDD’21, a PC co-chair for E&A track of VLDB 2014, and a PC vice-Chair for ICDE’18. He is an associate editor for ACM Transactions on Database Systems (TODS) and the vice Chair of ACM KDD Singapore chapter.

@@ -6,7 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: ML for Data Management Group @ NTU
+# title: ML for Database Group @ NTU
 hero_media: ml4db-overview.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -22,6 +22,7 @@ cta:
   icon: github
 ---
 
+# ML for Data Management Group @ NTU
 <br>
 
 Our research lies at the intersection of Machine Learning and Databases. Current research projects includes learned index, learned query optimization, as well as data generation. 

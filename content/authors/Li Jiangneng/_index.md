@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Li Jiangneng
+title: LI Jiangneng
 
 # Username (this should match the folder name)
 authors:
-  - LI Jiangneng
+  - Li Jiangneng
 
 # Is this the primary user of the site?
 superuser: false
