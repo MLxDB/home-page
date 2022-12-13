@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Congratulations to Gu Tu for publishing the paper "Effectively Learning Spatial Indexes with a Support for Updates" at VLDB 2023.
+Congratulations to Gu Tu for publishing the paper "Effectively Learning Spatial Indexes with a Support for Updates" at SIGMOD 2023.
 <!--more-->
 
 Learned indices have been proposed to replace classic index structures
