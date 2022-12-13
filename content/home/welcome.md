@@ -25,7 +25,7 @@ cta:
 # ML for Data Management Group @ NTU
 <br>
 
-Our research lies at the intersection of Machine Learning and Databases. Current research projects includes learned index, learned query optimization, as well as data generation. 
+Our research lies at the intersection of Machine Learning and Databases.
 
 
 <br>
