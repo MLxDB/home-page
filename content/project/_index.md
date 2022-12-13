@@ -15,11 +15,12 @@ banner:
 
 {{< figure src="ml4db-overview.png" >}}
 
-### Database Indexing
+### Database Access Methods
 Indexing techniques can significantly improve query efficiency. We use machine learning techniques to optimize various index structure based on the data distribution and workload patterns.
 
 Publications:
--  [A Reinforcement Learning Based R-Tree for Spatial Data Indexing in Dynamimc Environments](https://arxiv.org/pdf/2103.04541v2.pdf)
+-  [Effectively Learning Spatial Indexes with a Support for Updates](https://github.com/MLxDB/MLxDB.github.io/blob/master/publication/sigmod23-rlr-tree/rlr.pdf) SIGMOD 2023.
+-  [Learned Index Benefits: Machine Learning Based Index Performance Estimation](https://www.vldb.org/pvldb/vol15/p3950-shi.pdf) VLDB 2023.
 
 ### Query Optimization
 Query optimizer is at the core of a data management system. Traditional query optimizer requires a huge amount of work to build, and yet performs sub-optimally. We explore opportunities to enhance query optimizers with learning-based techniques, e.g., leared cardinalitiy estimation, multi-query optimization.

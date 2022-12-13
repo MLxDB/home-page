@@ -35,7 +35,7 @@ featured: false
 # links:
 #   - name: Custom Link
 #     url: http://example.org
-url_pdf: https://arxiv.org/pdf/2103.04541v2.pdf
+url_pdf: https://github.com/MLxDB/MLxDB.github.io/blob/master/publication/sigmod23-rlr-tree/rlr.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
