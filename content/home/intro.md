@@ -17,5 +17,5 @@ design:
 We are the **ML for Database Group** at Nanyang Technological University (NTU). Our research focuses on the application of machine learning techniques to various problems in database management, with the vision of building an intelligent, self-adpative data management system. Our current research includes:
 - Cardinality Estimation 
 - Database Generation
-- Learned Index Optimization 
+- Learned Index
 - Learned Query Optimizer
