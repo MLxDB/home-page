@@ -54,4 +54,4 @@ design:
   columns: '1'
 ---
 
-The ML for Data Management group conducts research at the intersection of Machine Learning and Databases, including learned index, learned query optimization and data generation. Our projects are supported by grants awarded by Ministry of Education, NRF, IAF, Singtel/NCS, Roll-Royce, Alibaba, and Microsoft.
+We are the **Data+AI Group** at Nanyang Technological University (NTU). Our research focuses on **Data management and AI**, bridging the gap between data management and artificial intelligence. We explore two main directions: **DB4AI** (Database for AI) and **AI4DB** (AI for Database). Our research includes learned index, learned query optimization and data generation. Our projects are supported by grants awarded by Ministry of Education, NRF, IAF, Singtel/NCS, Roll-Royce, Alibaba, and Microsoft.
