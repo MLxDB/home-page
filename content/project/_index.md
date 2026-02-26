@@ -25,11 +25,12 @@ We design next-generation data systems tailored for AI applications, supporting 
 
 <span id="arcade-system"></span>
 ### Real-time AI-powered Multimodal Analytics System: ARCADE
-- **[ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities.]({{< ref "publication/corr25-arcade" >}})** (CoRR 2025) [[Code]](https://github.com/Jamesyang2333/ARCADE)
+- **[ARCADE: A Real-Time Data System for Hybrid and Continuous Query Processing across Diverse Data Modalities.]({{< ref "publication/icde26-arcade" >}})** (ICDE 2026) [[Code]](https://github.com/Jamesyang2333/ARCADE)
 
 <span id="semantic-queries"></span>
 ### Semantic Queries & Data Agent
 We build intelligent data agents and systems capable of handling semantic and analytical queries over heterogeneous data sources.
+- **[CARROT: A Learned Cost-Constrained Retrieval Optimization System for RAG.]({{< ref "publication/icde26-carrot" >}})** (ICDE 2026) [[Code]](https://github.com/wang0702/CARROT)
 - **[FDABench: A Benchmark for Data Agents on Analytical Queries over Heterogeneous Data.]({{< ref "publication/corr25-fdabench" >}})** (CoRR 2025) [[Code]](https://github.com/fdabench/FDAbench)
 
 <span id="hybrid-search"></span>
@@ -41,6 +42,7 @@ We develop efficient indexing and search algorithms to support hybrid queries ov
 <span id="lsm-storage"></span>
 ### Multimodal LSM Storage
 We optimize LSM-tree based storage engines to efficiently manage multimodal data on modern hardware.
+- **[SOLAR: Efficient Spatial Queries on LSM-based Storage.]({{< ref "publication/icde26-solar" >}})** (ICDE 2026)
 - **[NEXT: A New Secondary Index Framework for LSM-based Data Storage.]({{< ref "publication/sigmod25-next" >}})** (SIGMOD 2025)
 - **[CAMAL: Optimizing LSM-trees via Active Learning.]({{< ref "publication/sigmod25-camal" >}})** (SIGMOD 2025)
 

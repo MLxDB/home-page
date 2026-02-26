@@ -8,8 +8,8 @@ authors:
   - Kunhao Shi
   - Xuchen Ding
   - Gao Cong
-date: '2025-09-01T00:00:00Z'
-publication: 'CoRR abs/2509.19757 (2025)'
+date: '2026-01-01T00:00:00Z'
+publication: 'ICDE 2026'
 publication_types: ['1']
 abstract: ''
 featured: false
