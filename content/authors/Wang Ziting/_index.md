@@ -3,6 +3,7 @@ title: WANG Ziting
 authors:
   - Wang Ziting
 superuser: false
+weight: 60
 role: PhD Student
 organizations:
   - name: Nanyang Technological University

@@ -3,6 +3,7 @@ title: DING Xuchen
 authors:
   - Ding Xuchen
 superuser: false
+weight: 10
 role: PhD Student
 organizations:
   - name: Nanyang Technological University

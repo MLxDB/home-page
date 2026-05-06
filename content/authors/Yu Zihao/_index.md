@@ -3,6 +3,7 @@ title: YU Zihao
 authors:
   - Yu Zihao
 superuser: false
+weight: 100
 role: PhD Student
 organizations:
   - name: Nanyang Technological University

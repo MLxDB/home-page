@@ -3,6 +3,7 @@ title: SHI Kunhao
 authors:
   - Shi Kunhao
 superuser: false
+weight: 70
 role: PhD Student
 organizations:
   - name: Nanyang Technological University
